@@ -134,7 +134,7 @@ make binary
     ```
 
 ## Running the Service on an OpenShift cluster
-Follow this [guide](./docs/deploying-kas-fleet-manager-to-openshift.md) on how to deploy the KAS Fleet Manager service to an OpenShift cluster.
+Follow this [guide](./docs/deploying-kas-fleet-manager-to-openshift.md) on how to deploy the KAS Fleet Manager service to an OpenShift cluster
 
 ## Using the Service
 ### Kafkas
